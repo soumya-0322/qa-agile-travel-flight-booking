@@ -10,28 +10,7 @@ Summary: This repository demonstrates a complete manual testing cycle for an Agi
 * Logged ~20 defects in Jira with attachments and triage history.
 * Generated test cycle & execution reports (PDF) and captured screenshots illustrating board, workflow, and execution status.
 
-/ (root)
-├─ Defects/
-│  └─ Jira.docx                 # Export / summary of defect reports or defect write-ups
-├─ Reports/
-│  ├─ BugStatus.pdf             # Bug status summary (counts by status/severity)
-│  ├─ TestCycleReport.pdf       # High-level test cycle report (coverage, pass/fail)
-│  └─ TestExecutionReport.pdf   # Detailed execution results
-├─ Screenshots/
-│  ├─ ATTBoard_summary1.png
-│  ├─ ATTBoard_summary2.png
-│  ├─ ATTBoard_TimeLine.png
-│  ├─ CalendarClosedSprint.png
-│  ├─ ProjectWorkflow.png
-│  ├─ TestExecution.png
-│  ├─ ZephyrTestCases.png
-│  └─ ZephyrTestcycle.png
-└─ TestCases/
-   ├─ ATT_T1.xlsx
-   ├─ ATT_T2.xlsx
-   ├─ ...
-   └─ ATT_T35.xlsx
-
+# the Repo consists
 
 * Defects/Jira.docx — contains exported defects or a consolidated defect report.
 * Reports/ — final exported PDF reports from Zephyr/Jira showing test cycle metrics and bug dashboard.
