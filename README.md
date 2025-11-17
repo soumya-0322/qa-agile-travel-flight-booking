@@ -1,8 +1,8 @@
 # Agile Travel — Flight Booking (Manual QA Project)
 
-Project type: Manual testing / Test management demonstration
-Author: Soumya Hegde
-Summary: This repository demonstrates a complete manual testing cycle for an Agile travel (flight booking) web application. It contains test cases, defects, execution reports, and screenshots produced using Jira + Zephyr Scale.
+* Project type: Manual testing / Test management demonstration
+* Author: Soumya Hegde
+* Summary: This repository demonstrates a complete manual testing cycle for an Agile travel (flight booking) web application. It contains test cases, defects, execution reports, and screenshots produced using Jira + Zephyr Scale.
 
 # Quick summary
 
@@ -10,7 +10,7 @@ Summary: This repository demonstrates a complete manual testing cycle for an Agi
 * Logged ~20 defects in Jira with attachments and triage history.
 * Generated test cycle & execution reports (PDF) and captured screenshots illustrating board, workflow, and execution status.
 
-# the Repo consists
+# Repo consists
 
 * Defects/Jira.docx — contains exported defects or a consolidated defect report.
 * Reports/ — final exported PDF reports from Zephyr/Jira showing test cycle metrics and bug dashboard.
